@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mrkitoelquelolea",
+  "repo": "container-i-m5koe",
+  "name": "mrkitoelquelolea",
+  "email": "mrkitoelquelolea.com@gmail.com",
+}
